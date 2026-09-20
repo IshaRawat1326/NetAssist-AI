@@ -4,7 +4,7 @@ AI-assisted Network Support and Diagnostic Platform developed during my BSNL int
 
 ## 🚀 Live Demo
 
-👉 **[Open NetAssist AI](https://boisterous-net-assist-flow.base44.app)**
+👉 [Open NetAssist AI](https://boisterous-net-assist-flow.base44.app)
 
 
 ## 📸 Screenshots
