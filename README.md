@@ -6,25 +6,26 @@ AI-assisted Network Support and Diagnostic Platform developed during my BSNL int
 
 👉 **[Open NetAssist AI](https://boisterous-net-assist-flow.base44.app)**
 
+
 ## 📸 Screenshots
 
-### Landing Page
-![Landing Page](screenshots/landing-page.png)
-
-### User Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### AI Assistant
-![AI Assistant](screenshots/ai-assistant.png)
+### Dashboard
+![Dashboard](screenshots/Dashboard.png)
 
 ### New Support Ticket
-![New Ticket](screenshots/new-ticket.png)
+![New Ticket](screenshots/New%20Ticket.png)
+
+### AI Assistant
+![AI Assistant](screenshots/AI%20Assistant.png)
 
 ### My Tickets
-![My Tickets](screenshots/my-tickets.png)
+![My Tickets](screenshots/My%20Tickets.png)
+
+### All Reports
+![All Reports](screenshots/All%20Reports.png)
 
 ### Diagnostic Report
-![Diagnostic Report](screenshots/diagnostic-report.png)
+![Diagnostic Report](screenshots/Diagnostic%20Report.png)
 
 ### Admin Dashboard
-![Admin Dashboard](screenshots/admin-dashboard.png)
+![Admin Dashboard](screenshots/Admin%20dashboard.png)
